@@ -14,4 +14,7 @@ Repository organization:
   3. Memorability_Predictor.ipynb
         This is the final predictor, that can predict the short-term and long-term memorability scores of any video with captions. The best result for this predictor for predicting the short-term memorability scores is 𝟬.𝟰𝟬𝟰 (which is promising, as the highest scores achieved in this challange is 0.49)
         
+Additional details and some research on this challenge is described in Model_Report.pdf file.
+
+        
     
