@@ -1,6 +1,6 @@
 # Predicting-Video-Memorability-Scores
 Predicting Video Memorability Scores Using Machine Learning Models.
-This project is an attempt on "Predicting Media Memorability Task at MediaEval 2018" challege. I have used the dataset provideed by the organisers to train and build the model. The code for this challege was written using python.
+This project is an attempt on solving "Predicting Media Memorability Task at MediaEval 2018" challege. I have used the dataset provideed by the organisers to train and build the model. The code for this challege was written using python.
 
 Repository organization:
 
